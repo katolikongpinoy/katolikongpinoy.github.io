@@ -53,6 +53,7 @@
   display: block;
   width: 100px;
   height: 100px;
+  image-size: 100px;
   background-color: black; /* White background color */
   padding: 20px; /* Some padding */
 }
