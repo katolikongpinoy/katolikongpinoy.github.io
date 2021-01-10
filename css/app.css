@@ -59,7 +59,7 @@ img.displayed {
         display: flex;
         align-items: center; /* Use another value to see the result */
         width: 100%;
-        height: auto;
+        height: 500px;
         background-color: #1faadb;
       }
       .flex-container > div {
