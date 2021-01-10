@@ -51,8 +51,8 @@
 .centerbox {
   float: left; 
   display: block;
-  width: 100px;
-  height: 100px;
+  width: 1000px;
+  height: 1000px;
   background-color: black; 
   padding: 20px;
 }
