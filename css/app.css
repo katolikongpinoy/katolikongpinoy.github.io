@@ -92,7 +92,14 @@
   .navbar a {
     float: none;
     width: 100%;
-  }
+  }  
+  
+  .img {
+    float: none;
+    width: 50%;
+ }
+  
+  
 }
 
 .footer {
