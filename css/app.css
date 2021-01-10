@@ -48,6 +48,13 @@
   flex-wrap: wrap;
 }
 
+#centerbox {
+  flex: 70%; /* Set the width of the main content */
+  background-color: black; /* White background color */
+  padding: 20px; /* Some padding */
+}
+
+
 /* Create two unequal columns that sits next to each other */
 /* Sidebar/left column */
 .side {
