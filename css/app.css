@@ -48,7 +48,7 @@
   flex-wrap: wrap;
 }
 
-#centerbox {
+.centerbox {
   width: 100px; /* Set the width of the main content */
   background-color: black; /* White background color */
   padding: 20px; /* Some padding */
