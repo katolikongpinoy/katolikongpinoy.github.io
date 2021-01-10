@@ -49,7 +49,7 @@
 }
 
 #centerbox {
-  flex: 70%; /* Set the width of the main content */
+  flex: -10%; /* Set the width of the main content */
   background-color: black; /* White background color */
   padding: 20px; /* Some padding */
 }
