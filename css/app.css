@@ -48,7 +48,7 @@
   flex-wrap: wrap;
 }
 
-#centerbox {
+div.centerbox {
   float: left; 
   display: block;
   width: 100px;
