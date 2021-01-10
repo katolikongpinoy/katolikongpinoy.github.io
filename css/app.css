@@ -48,15 +48,14 @@
   flex-wrap: wrap;
 }
 
-div.centerbox {
+.centerbox {
   float: left; 
   display: block;
   width: 100px;
   height: 100px;
-  background-color: black; /* White background color */
-  padding: 20px; /* Some padding */
+  background-color: black; 
+  padding: 20px;
 }
-
 
 /* Create two unequal columns that sits next to each other */
 /* Sidebar/left column */
