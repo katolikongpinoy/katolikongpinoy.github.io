@@ -55,6 +55,22 @@ img.displayed {
     width: 50%;
 }
 
+.flex-container {
+        display: flex;
+        align-items: center; /* Use another value to see the result */
+        width: 100%;
+        height: auto;
+        background-color: #1faadb;
+      }
+      .flex-container > div {
+        width: 50%;
+        height: 60px;
+        margin: auto;
+        border-radius: 3px;
+        background-color: #8ebf42;
+      }
+
+
 /* Create two unequal columns that sits next to each other */
 /* Sidebar/left column */
 .side {
